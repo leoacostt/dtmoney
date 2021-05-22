@@ -26,6 +26,5 @@ export const Content = styled.div`
         &:hover {
             filter: brightness(0.9)
         }
-
     }
 `
